@@ -230,17 +230,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksheriff\\source\\repos\\API\\api-backend.csproj",
+      "projectUniqueName": "C:\\Users\\ksheriff\\source\\repos\\ASP.Net-Core-React-Standalone-and-Web-API\\api-backend\\api-backend.csproj",
       "projectName": "api-backend",
-      "projectPath": "C:\\Users\\ksheriff\\source\\repos\\API\\api-backend.csproj",
+      "projectPath": "C:\\Users\\ksheriff\\source\\repos\\ASP.Net-Core-React-Standalone-and-Web-API\\api-backend\\api-backend.csproj",
       "packagesPath": "C:\\Users\\ksheriff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksheriff\\source\\repos\\API\\obj\\",
+      "outputPath": "C:\\Users\\ksheriff\\source\\repos\\ASP.Net-Core-React-Standalone-and-Web-API\\api-backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ksheriff\\source\\repos\\reactproject1\\NuGet.Config",
+        "C:\\Users\\ksheriff\\Source\\Repos\\ASP.Net-Core-React-Standalone-and-Web-API\\webproject\\NuGet.Config",
         "C:\\Users\\ksheriff\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

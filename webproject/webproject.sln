@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "react-frontend", "react-frontend.esproj", "{05AD8021-8475-4DF8-8E0F-6533B44F2828}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api-backend", "..\API\api-backend.csproj", "{F015DF4F-A4B7-456A-9529-7791AE2A05A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api-backend", "..\api-backend\api-backend.csproj", "{19E9DB7C-1332-49DC-9F4F-36EA489CA90A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,10 @@ Global
 		{05AD8021-8475-4DF8-8E0F-6533B44F2828}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05AD8021-8475-4DF8-8E0F-6533B44F2828}.Release|Any CPU.Build.0 = Release|Any CPU
 		{05AD8021-8475-4DF8-8E0F-6533B44F2828}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{F015DF4F-A4B7-456A-9529-7791AE2A05A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F015DF4F-A4B7-456A-9529-7791AE2A05A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F015DF4F-A4B7-456A-9529-7791AE2A05A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F015DF4F-A4B7-456A-9529-7791AE2A05A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E9DB7C-1332-49DC-9F4F-36EA489CA90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E9DB7C-1332-49DC-9F4F-36EA489CA90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E9DB7C-1332-49DC-9F4F-36EA489CA90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E9DB7C-1332-49DC-9F4F-36EA489CA90A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
