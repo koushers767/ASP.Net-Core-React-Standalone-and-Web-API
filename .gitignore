@@ -31,3 +31,4 @@
 /webproject/obj/Debug/react-frontend.esproj.FileListAbsolute.txt
 /webproject/obj/Debug/react-frontend.esproj.CoreCompileInputs.cache
 /webproject/.vs/webproject/DesignTimeBuild/.dtbcache.v2
+*.vsidx
